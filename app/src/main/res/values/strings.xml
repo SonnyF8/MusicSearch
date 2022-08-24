@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iTunes Music Search</string>
+    <string name="search_limit">50</string>
+    <string name="hint_text">Enter search term, ie; Rolling Stones</string>
+
+    <string name="network_error">Network Access Error</string>
+    <string name="check_settings">\nCheck your WiFi or Phone Settings</string>
+    <string name="exit">Exit</string>
+</resources>
